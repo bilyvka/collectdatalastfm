@@ -1,9 +1,9 @@
 
-#Collects data from LastFM API
+# Collects data from LastFM API
 
 Backend - NodeJs Frontend - Angular4
 
-#How to use
+## How to use
 ```
 cd backend 
 ```
@@ -15,7 +15,7 @@ npm start //make sure port 3000 is available
 ```
 Csv files will be stored under directory public/uploads
 
-Run the client side
+## Run the client side
 
 ```
 cd client 
