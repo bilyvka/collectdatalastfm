@@ -1,7 +1,7 @@
 
 # Collects data from LastFM API
 
-Backend - NodeJs Frontend - Angular4
+Backend - NodeJs, Frontend - Angular4
 
 ## How to use
 ```
